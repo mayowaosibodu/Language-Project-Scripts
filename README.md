@@ -1,4 +1,4 @@
-# TLP-Scripts
+# Language-Project-Scripts
 
 Various scripts used to carry out several tasks relevant to achieving the goals of Aditu's Language Project.
 
