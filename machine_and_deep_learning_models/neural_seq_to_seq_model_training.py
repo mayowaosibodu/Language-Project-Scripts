@@ -1,5 +1,5 @@
 '''
-Very elementary Sequence-to-Sequence model. Adapted from a Keras tutorial: https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+Initial Sequence-to-Sequence model. Adapted from a Keras tutorial: https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
 '''
 
 'Does the decoding process make use of the trained model at all?'
